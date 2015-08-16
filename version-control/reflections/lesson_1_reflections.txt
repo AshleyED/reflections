@@ -1,5 +1,5 @@
 How did viewing a diff between two versions of a file help you see the bug that was introduced?
-Well I didn't cause the stupid course skipped right over it sooo.
+It helps you to see where changes were made, so you can compare code and see what went wrong.
 
 How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
 If you mess something up you can go start over, take a couple steps back, etc.
@@ -16,7 +16,7 @@ How can you use the commands git log and git diff to view the history of files?
 Can use it to check for changes/where mistakes began.
 
 How might using version control make you more confident to make changes that could break something?
-Won't have to be so concerned because you can just go back and check.
+Won't have to be so concerned because you can just go back and check. Feel more confident with experimenting.
 
 Now that you have your workspace set up, what do you want to try using Git for?
-Nothing it seems complicated and mildly unnecessary.
+Saving commits while writing code to help track changes, fix bugs, etc. 
